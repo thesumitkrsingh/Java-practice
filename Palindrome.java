@@ -9,7 +9,7 @@ public class Palindrome {
             int result=number%10;
             num=num*10+result;
             number=number/10;
-
+//
         }
         if(original==num){
             System.out.println("its Palindrome");
