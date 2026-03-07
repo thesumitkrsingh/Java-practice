@@ -1,5 +1,5 @@
 package LogicBuilding;
-//Print all prime numbers between 1 and 100
+//Print all prime numbers between 1 and 100.
 public class PrimeNumber {
     public static void main(String[] args){
 
