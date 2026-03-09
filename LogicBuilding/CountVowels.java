@@ -8,7 +8,7 @@ public class CountVowels {
             //System.out.println(i);
             char ch =str.charAt(i);
             if (ch == 'a' || ch == 'e' || ch == 'i' ||ch =='o'||ch=='u') {
-                //System.out.println(i);
+
                 count++;
             }
         }
