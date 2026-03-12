@@ -9,8 +9,12 @@ public class GradeCalculator {
             System.out.println("Grade A");
         }else if(number>=80){
             System.out.println("Grade B");
-        }else{
+        }else if(number>=70){
             System.out.println("Grade C");
+        }else if(number>=60){
+            System.out.println("Grade D");
+        }else {
+            System.out.println("Grade F");
         }
     }
 }
