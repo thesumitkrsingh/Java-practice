@@ -12,6 +12,6 @@ public class ImplementStack {
         System.out.println(stack);
         stack.pop();
         System.out.println(stack);
-
+//s
     }
 }
