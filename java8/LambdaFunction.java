@@ -8,8 +8,5 @@ public class LambdaFunction {
     }
 
 }
-interface Mathoperation{
-    int add(int a,int b);
-}
 
 //s
