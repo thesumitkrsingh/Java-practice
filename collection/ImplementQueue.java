@@ -9,6 +9,6 @@ public class ImplementQueue {
         System.out.println(list);
         list.remove();
         System.out.println(list);
-
+//s
     }
 }
