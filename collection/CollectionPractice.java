@@ -15,6 +15,7 @@ public class CollectionPractice {
        Student.add("Satish");
        Student.add("Rajnish");
        Collections.sort(Student);
+       Collections.reverse(Student);
        System.out.println(Student);
    }
 }
