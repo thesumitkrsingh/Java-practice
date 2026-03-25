@@ -19,4 +19,4 @@ public class UsingThrows {
             throw new Exception("Idhar Exception handle hor raha hai ");
         }
     }
-
+//ss
