@@ -13,7 +13,7 @@ public class EvenNumberUsingLambda {
         for(int List:list){
         }
 
-
+//s
 
     }
 }
