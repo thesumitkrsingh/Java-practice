@@ -8,7 +8,7 @@ public class MostRepeatedElement {
         repeated.put(2,"sachin");
         repeated.put(3,"Sumit");
 
-//s
+
 
     }
 }
