@@ -2,7 +2,7 @@ package collection;
 import java.util.*;
 
 
-public class PracticeCollection {
+public class Practice {
     public static void main(String[] args){
         List<Integer> num=new ArrayList<>();
         num.add(1);
