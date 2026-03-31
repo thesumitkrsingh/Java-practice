@@ -7,7 +7,7 @@ public class GroupWordByThierFirstLater {
         List<String> alist=new ArrayList<>();
         alist.add("Aman");
         alist.add("Sumit");
-        alist.add("Himanshu");
+        alist.add("Hima");
        list.put('A',alist);
        list.put('S',alist);
        list.put('H',alist);
