@@ -8,6 +8,7 @@ public class Chain {
            throw new ArithmeticException("Calculation galat hai"+e);
        }
     }
+    //ss
     static void divide(){
         int a=4;
         int b=0;

@@ -13,5 +13,6 @@ public class ImplementStack {
         stack.pop();
         System.out.println(stack);
 //s
+//ss
     }
 }

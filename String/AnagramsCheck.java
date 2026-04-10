@@ -12,6 +12,7 @@ public class AnagramsCheck {
             System.out.println("Nota Anagram [length not match");
             return;
         }
+        //s
         char[] s1=input.toCharArray();
         char[] s2=aInput.toCharArray();
         Arrays.sort(s1);
