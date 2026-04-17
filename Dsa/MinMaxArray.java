@@ -8,10 +8,10 @@ public class MinMaxArray {
         int max=0;
         for(int i=0;i<n;i++){
            if(nums[i]<nums[min]){
-               min=nums[i];
+               min=i;
            }
            if(nums[i]>nums[max]){
-               max=nums[i];
+               max=i;
            }
 
         }
