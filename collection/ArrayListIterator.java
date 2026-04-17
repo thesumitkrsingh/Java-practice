@@ -13,6 +13,7 @@ public class ArrayListIterator {
             if(crnt.equals("Karan")){
                i.remove();
             }
+//ss
 
 
         }
