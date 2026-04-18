@@ -1,5 +1,5 @@
 package ExceptionHandling;
-
+//ss
 public class CustomException {
     public static void main(String[] args){
         BankBalance amt=new BankBalance(10);
