@@ -3,6 +3,7 @@ package OopPractice;
 public class BankAccount {
     private int balance=0;
     //int amount=0;
+    //ss
     void Deposit(int amount){
         balance+=amount;
     }
